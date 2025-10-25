@@ -14,7 +14,7 @@ The use case diagram provides a visual representation of how different users int
 ## Diagram
 The following use case diagram illustrates these interactions:
 
-![Airbnb Clone Use Case Diagram](./airbnb_usecase.png)
+![Airbnb Clone Use Case Diagram](./use-case-diagram/usecase-arbnb.png)
 
 ## Summary
 This diagram helps developers and stakeholders understand how users interact with the system and ensures that all major functionalities are included before development begins.
