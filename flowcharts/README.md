@@ -32,4 +32,4 @@ The backend validates input, ensures email uniqueness, hashes passwords securely
 ## 🖼️ Flowchart Diagram
 The flowchart below visually represents the process described above.
 
-![Airbnb Clone flowchart](https://github.com/Firezer27/alx-airbnb-project-documentation/blob/main/use-case-diagram/usecase-arbnb.png?raw=true)
+![Airbnb Clone flowchart](https://github.com/Firezer27/alx-airbnb-project-documentation/blob/main/flowcharts/data-flow-diagram.png?raw=true)
